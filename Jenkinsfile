@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "todo-app"
+    dockerimagename = "todo-app:latest"
     dockerImage = ""
   }
 
